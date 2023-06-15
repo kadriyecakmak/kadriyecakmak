@@ -4,9 +4,8 @@
 
 Dynamic, hardworking, excited, curious, talkative, social
 
-- 🔭 I’m currently working on Dart
-- 🌱 I’m currently learning Flutter, Dart, JavaScript
-- 🤔 I’m looking for help with Mobile app development with Flutter
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Selenium, cucumber
 - 💬 Ask me about E-Commerce and marketplace integration
 - 📫 How to reach me: https://www.linkedin.com/in/kadriyecakmak/
 
@@ -16,7 +15,6 @@ Dynamic, hardworking, excited, curious, talkative, social
 ### 📩 Connect with me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/cakmakk45) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kadriyecakmakkk/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@cakmakkadriye45) 
 
 
