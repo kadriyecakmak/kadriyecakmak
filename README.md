@@ -11,6 +11,9 @@ Dynamic, hardworking, excited, curious, talkative, social
 
 <br />
 
+<br />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qx7op4xicdpigvcsol294iwdj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=4ea64d)](https://spotify-github-profile.kittinanx.com/api/view?uid=qx7op4xicdpigvcsol294iwdj&redirect=true)
 
 ### 📩 Connect with me: 
 
@@ -20,9 +23,6 @@ Dynamic, hardworking, excited, curious, talkative, social
 
 
 <br />
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qx7op4xicdpigvcsol294iwdj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=4ea64d)](https://spotify-github-profile.kittinanx.com/api/view?uid=qx7op4xicdpigvcsol294iwdj&redirect=true)
-
 
 
 ### GitHub Analytics 📊
