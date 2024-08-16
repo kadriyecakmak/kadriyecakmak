@@ -12,7 +12,7 @@ Dynamic, hardworking, excited, curious, talkative, social
 <br />
 
 
-### 📩 Connect with me:
+### 📩 Connect with me: 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/cakmakk45) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@cakmakkadriye45) 
