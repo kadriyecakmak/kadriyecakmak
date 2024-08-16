@@ -14,7 +14,7 @@ Dynamic, hardworking, excited, curious, talkative, social
 
 ### 📩 Connect with me: 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/cakmakk45) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/kadriyecakmak) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@cakmakkadriye45) 
 
 
@@ -24,12 +24,12 @@ Dynamic, hardworking, excited, curious, talkative, social
 
 ### GitHub Analytics 📊
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=cakmakk45&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kadriyecakmak&show_icons=true&theme=radical)
 
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cakmakk45&show_icons=true&locale=en&layout=compact" alt="KadriyeCakmak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadriyecakmak&show_icons=true&locale=en&layout=compact" alt="KadriyeCakmak" /></p>
 
 
 
