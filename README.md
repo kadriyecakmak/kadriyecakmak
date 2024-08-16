@@ -21,7 +21,9 @@ Dynamic, hardworking, excited, curious, talkative, social
 
 <br />
 
-<p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=qx7op4xicdpigvcsol294iwdj&cover_image=true&theme=default&bar_color_cover=false" alt="kadriye" /></p>
+<p>
+  <img align="center" src="https://my-k1tgu6xbx-kadriyecakmaks-projects.vercel.app/api/view?uid=qx7op4xicdpigvcsol294iwdj&cover_image=true&theme=default&bar_color_cover=false" alt="Kadriye'nin Spotify'da Dinledikleri" />
+</p>
 
 
 
