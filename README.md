@@ -33,5 +33,6 @@ Dynamic, hardworking, excited, curious, talkative, social
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadriyecakmak&show_icons=true&locale=en&layout=compact" alt="KadriyeCakmak" /></p>
+<br />
 
-- 777
+- 👁️‍🗨️ 🧘🏽 777
