@@ -4,8 +4,8 @@
 
 Dynamic, hardworking, excited, curious, talkative, social
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Selenium, cucumber
+- 🔭 I’m currently working on Java with selenium
+- 🌱 I’m currently learning Appium
 - 💬 Ask me about E-Commerce and marketplace integration
 - 📫 How to reach me: https://www.linkedin.com/in/kadriyecakmak/
 
